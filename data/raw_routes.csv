@@ -1,0 +1,171 @@
+route_id,source_airport,source_country,source_lat,source_long,destination_airport,destination_country,destination_lat,destination_long,distance_km,seasonal_index,region,route_type,is_hub_route,competitor_count
+R1,PHL,USA,39.8744,-75.2424,MXP,Italy,45.6306,8.7231,5738.32,0.86,North America,International,N,8
+R2,LYS,France,45.7256,5.0814,EDI,UK,55.95,-3.3725,9640.25,0.95,Europe,International,N,9
+R3,GRU,Brazil,-23.4356,-46.4731,LGA,USA,40.7769,-73.874,8998.75,0.54,South America,International,N,9
+R4,AUH,UAE,24.433,54.6511,DEN,USA,39.8617,-104.6737,6956.84,0.53,Middle East,International,Y,6
+R5,SVO,Russia,55.9726,37.4146,LED,Russia,59.8003,30.2625,2021.96,0.64,Europe,Domestic,N,6
+R6,MAA,India,12.9941,80.1709,MRS,France,43.4393,5.2214,1162.86,0.62,South Asia,International,Y,6
+R7,MAN,UK,53.3537,-2.275,MXP,Italy,45.6306,8.7231,13399.58,0.52,Europe,International,Y,5
+R8,DEL,India,28.5562,77.1,VCE,Italy,45.5053,12.3519,10243.26,0.55,South Asia,International,N,2
+R9,GIG,Brazil,-22.8099,-43.2505,ADL,Australia,-34.9471,138.5307,3377.46,0.93,South America,International,Y,8
+R10,CMN,Morocco,33.3675,-7.5898,SHA,China,31.1979,121.3364,12871.59,0.46,Africa,International,Y,7
+R11,SIN,Singapore,1.3644,103.9915,GVA,Switzerland,46.2381,6.1089,12412.84,0.99,Southeast Asia,International,N,9
+R12,DXB,UAE,25.2532,55.3657,AMD,India,23.077,72.6347,9591.3,0.78,Middle East,International,N,9
+R13,DEN,USA,39.8617,-104.6737,LGA,USA,40.7769,-73.874,11532.92,0.8,North America,Domestic,Y,10
+R14,EZE,Argentina,-34.8222,-58.5358,PMI,Spain,39.5517,2.7388,4037.66,0.89,South America,International,N,3
+R15,ICN,South Korea,37.4602,126.4407,ARN,Sweden,59.6519,17.9186,7464.26,0.36,East Asia,International,N,4
+R16,RUH,Saudi Arabia,24.9576,46.6988,WAW,Poland,52.1657,20.9671,9094.27,0.97,Middle East,International,N,9
+R17,BWI,USA,39.1774,-76.6684,KHI,Pakistan,24.9056,67.1607,5101.16,0.97,North America,International,N,3
+R18,JED,Saudi Arabia,21.6796,39.1564,DUR,South Africa,-29.6144,31.1197,1444.46,0.7,Middle East,International,N,3
+R19,VIE,Austria,48.1103,16.5697,PEK,China,40.0799,116.6031,5107.89,0.89,Europe,International,N,9
+R20,AKL,New Zealand,-37.0082,174.785,ADL,Australia,-34.9471,138.5307,4167.15,0.78,Oceania,International,Y,3
+R21,AUH,UAE,24.433,54.6511,AGP,Spain,36.6749,-4.4991,6076.8,0.98,Middle East,International,Y,8
+R22,JNB,South Africa,-26.1392,28.246,KIX,Japan,34.4347,135.2442,13855.75,0.56,Africa,International,N,10
+R23,JFK,USA,40.6413,-73.7781,AMD,India,23.077,72.6347,7254.64,0.53,North America,International,Y,10
+R24,LGA,USA,40.7769,-73.874,DFW,USA,32.8998,-97.0403,5415.39,0.8,North America,Domestic,Y,6
+R25,EDI,UK,55.95,-3.3725,DFW,USA,32.8998,-97.0403,2144.5,0.31,Europe,International,Y,5
+R26,BSB,Brazil,-15.8697,-47.9208,ADL,Australia,-34.9471,138.5307,6783.94,0.75,South America,International,N,9
+R27,ADD,Ethiopia,8.9806,38.7999,MXP,Italy,45.6306,8.7231,11952.04,0.97,Africa,International,N,10
+R28,AMS,Netherlands,52.3105,4.7683,GDL,Mexico,20.5218,-103.3106,2341.02,0.76,Europe,International,Y,3
+R29,MCO,USA,28.4312,-81.3081,LAX,USA,33.9416,-118.4085,4695.26,0.54,North America,Domestic,Y,0
+R30,MXP,Italy,45.6306,8.7231,MAA,India,12.9941,80.1709,11477.26,0.95,Europe,International,N,5
+R31,SSA,Brazil,-12.9086,-38.3314,TLV,Israel,32.0114,34.8867,9876.92,0.72,South America,International,N,5
+R32,MAD,Spain,40.4983,-3.5676,BOM,India,19.0896,72.8656,881.89,0.51,Europe,International,N,1
+R33,PHX,USA,33.4373,-112.0078,BOM,India,19.0896,72.8656,451.92,0.42,North America,International,Y,5
+R34,DXB,UAE,25.2532,55.3657,CTU,China,30.5781,103.947,3344.83,0.32,Middle East,International,N,0
+R35,DEN,USA,39.8617,-104.6737,BOM,India,19.0896,72.8656,6324.14,0.65,North America,International,Y,10
+R36,HAN,Vietnam,21.2187,105.8044,ICN,South Korea,37.4602,126.4407,9029.8,0.88,Southeast Asia,International,Y,0
+R37,JNB,South Africa,-26.1392,28.246,ORY,France,48.7233,2.3794,5018.07,0.37,Africa,International,N,8
+R38,CTU,China,30.5781,103.947,KHI,Pakistan,24.9056,67.1607,14401,0.74,East Asia,International,N,1
+R39,NBO,Kenya,-1.3192,36.9278,HAM,Germany,53.6304,9.9882,1135.47,0.89,Africa,International,N,7
+R40,YVR,Canada,49.1967,-123.1815,DRW,Australia,-12.4086,130.877,1114.65,0.81,North America,International,N,10
+R41,YUL,Canada,45.4657,-73.7449,STN,UK,51.886,0.2389,409.34,0.67,North America,International,Y,9
+R42,ADL,Australia,-34.9471,138.5307,SVO,Russia,55.9726,37.4146,13983.27,0.45,Oceania,International,N,8
+R43,CAN,China,23.3924,113.2988,PUS,South Korea,35.1795,128.9382,8446.33,0.99,East Asia,International,Y,0
+R44,YVR,Canada,49.1967,-123.1815,ADD,Ethiopia,8.9806,38.7999,9096.85,0.51,North America,International,N,0
+R45,ATL,USA,33.6407,-84.4277,NRT,Japan,35.7647,140.3864,3030.4,0.46,North America,International,Y,5
+R46,PHX,USA,33.4373,-112.0078,JED,Saudi Arabia,21.6796,39.1564,5875.49,0.97,North America,International,Y,0
+R47,GIG,Brazil,-22.8099,-43.2505,ADD,Ethiopia,8.9806,38.7999,8415.46,0.89,South America,International,Y,1
+R48,MIA,USA,25.7959,-80.287,BNE,Australia,-27.3942,153.1218,13514.87,0.77,North America,International,Y,6
+R49,AMD,India,23.077,72.6347,WLG,New Zealand,-41.3276,174.805,11868.78,0.53,South Asia,International,N,4
+R50,WAW,Poland,52.1657,20.9671,ORY,France,48.7233,2.3794,8927.52,0.49,Europe,International,Y,2
+R51,ORD,USA,41.9742,-87.9073,PVG,China,31.1443,121.8083,10244.16,0.43,North America,International,Y,2
+R52,JFK,USA,40.6413,-73.7781,YYZ,Canada,43.6777,-79.6248,5479.4,0.44,North America,International,N,7
+R53,CDG,France,49.0097,2.5479,PEK,China,40.0799,116.6031,4581.82,0.76,Europe,International,Y,1
+R54,MEX,Mexico,19.4363,-99.0721,HKG,Hong Kong,22.308,113.9185,6895.74,0.65,North America,International,Y,2
+R55,DRW,Australia,-12.4086,130.877,TUN,Tunisia,36.851,10.2272,7329.75,0.46,Oceania,International,Y,10
+R56,GRU,Brazil,-23.4356,-46.4731,NBO,Kenya,-1.3192,36.9278,5979.9,0.32,South America,International,Y,0
+R57,DEN,USA,39.8617,-104.6737,BKK,Thailand,13.69,100.7501,13815.24,0.84,North America,International,Y,8
+R58,HAM,Germany,53.6304,9.9882,BWI,USA,39.1774,-76.6684,3175.36,0.95,Europe,International,N,3
+R59,JED,Saudi Arabia,21.6796,39.1564,HAN,Vietnam,21.2187,105.8044,1415.87,0.37,Middle East,International,N,3
+R60,DMK,Thailand,13.9129,100.6069,AMS,Netherlands,52.3105,4.7683,940.62,0.77,Southeast Asia,International,Y,5
+R61,PEK,China,40.0799,116.6031,GDL,Mexico,20.5218,-103.3106,13496.02,0.88,East Asia,International,N,5
+R62,WAW,Poland,52.1657,20.9671,BOM,India,19.0896,72.8656,4940.12,0.5,Europe,International,N,10
+R63,DUR,South Africa,-29.6144,31.1197,DAC,Bangladesh,23.8431,90.3979,2790.47,0.89,Africa,International,Y,9
+R64,SSA,Brazil,-12.9086,-38.3314,WAW,Poland,52.1657,20.9671,1173.72,0.34,South America,International,N,3
+R65,MAD,Spain,40.4983,-3.5676,GIG,Brazil,-22.8099,-43.2505,4077.97,0.85,Europe,International,N,7
+R66,SIN,Singapore,1.3644,103.9915,ABV,Nigeria,9.0068,7.2638,4796.45,0.31,Southeast Asia,International,N,7
+R67,LHE,Pakistan,31.5216,74.4036,ORD,USA,41.9742,-87.9073,5181.82,0.98,South Asia,International,Y,4
+R68,YYC,Canada,51.1315,-114.0106,MCO,USA,28.4312,-81.3081,12537.66,0.44,North America,International,N,0
+R69,FRA,Germany,50.0379,8.5622,GDL,Mexico,20.5218,-103.3106,8423.63,0.48,Europe,International,N,6
+R70,ARN,Sweden,59.6519,17.9186,JED,Saudi Arabia,21.6796,39.1564,5842.03,0.6,Europe,International,Y,3
+R71,WAW,Poland,52.1657,20.9671,TLV,Israel,32.0114,34.8867,1327.82,0.81,Europe,International,N,5
+R72,MEX,Mexico,19.4363,-99.0721,PER,Australia,-31.9403,115.9669,11133.62,0.6,North America,International,Y,6
+R73,JFK,USA,40.6413,-73.7781,YEG,Canada,53.3097,-113.58,8001.75,0.44,North America,International,Y,6
+R74,SHA,China,31.1979,121.3364,MAA,India,12.9941,80.1709,4654.75,0.67,East Asia,International,Y,3
+R75,KHI,Pakistan,24.9056,67.1607,MUC,Germany,48.3538,11.7861,6576.34,0.47,South Asia,International,N,6
+R76,BCN,Spain,41.2974,2.0833,DUR,South Africa,-29.6144,31.1197,10988.15,0.91,Europe,International,Y,5
+R77,AKL,New Zealand,-37.0082,174.785,ORD,USA,41.9742,-87.9073,8116,0.78,Oceania,International,N,6
+R78,NRT,Japan,35.7647,140.3864,IAH,USA,29.9902,-95.3368,6556.69,0.54,East Asia,International,N,8
+R79,MSP,USA,44.8848,-93.2223,SVO,Russia,55.9726,37.4146,8507.74,0.81,North America,International,Y,6
+R80,DUS,Germany,51.2895,6.7668,EDI,UK,55.95,-3.3725,13608.04,0.57,Europe,International,N,9
+R81,AUH,UAE,24.433,54.6511,OSL,Norway,60.1939,11.1004,4521.99,0.89,Middle East,International,Y,6
+R82,LYS,France,45.7256,5.0814,MEX,Mexico,19.4363,-99.0721,5025.1,0.66,Europe,International,N,4
+R83,TPE,Taiwan,25.0797,121.2342,DMK,Thailand,13.9129,100.6069,1197.16,0.67,East Asia,International,N,10
+R84,PMI,Spain,39.5517,2.7388,HAM,Germany,53.6304,9.9882,14850.95,0.71,Europe,International,Y,2
+R85,NAP,Italy,40.886,14.2906,GIG,Brazil,-22.8099,-43.2505,7202.81,0.65,Europe,International,Y,2
+R86,NBO,Kenya,-1.3192,36.9278,SSA,Brazil,-12.9086,-38.3314,12019.43,0.34,Africa,International,N,2
+R87,SSA,Brazil,-12.9086,-38.3314,CTS,Japan,42.7747,141.692,1429.56,0.61,South America,International,N,5
+R88,GIG,Brazil,-22.8099,-43.2505,WAW,Poland,52.1657,20.9671,1316.18,0.85,South America,International,Y,0
+R89,BNE,Australia,-27.3942,153.1218,CHC,New Zealand,-43.4866,172.532,697.13,0.54,Oceania,International,Y,5
+R90,AGP,Spain,36.6749,-4.4991,AMD,India,23.077,72.6347,9603.25,0.42,Europe,International,Y,8
+R91,CDG,France,49.0097,2.5479,DUS,Germany,51.2895,6.7668,4976.59,0.69,Europe,International,N,0
+R92,FCO,Italy,41.8003,12.2389,MIA,USA,25.7959,-80.287,6058.11,0.96,Europe,International,N,6
+R93,MIA,USA,25.7959,-80.287,JED,Saudi Arabia,21.6796,39.1564,14209.29,0.66,North America,International,Y,3
+R94,LHE,Pakistan,31.5216,74.4036,DUR,South Africa,-29.6144,31.1197,1506.17,0.57,South Asia,International,Y,8
+R95,LHE,Pakistan,31.5216,74.4036,MEX,Mexico,19.4363,-99.0721,8000.28,0.89,South Asia,International,Y,0
+R96,MAD,Spain,40.4983,-3.5676,NBO,Kenya,-1.3192,36.9278,4339.7,0.94,Europe,International,N,4
+R97,ICN,South Korea,37.4602,126.4407,BLR,India,13.1979,77.7063,2539.15,0.5,East Asia,International,Y,5
+R98,MRS,France,43.4393,5.2214,HEL,Finland,60.3172,24.9633,9741.99,0.85,Europe,International,N,6
+R99,MRS,France,43.4393,5.2214,TLV,Israel,32.0114,34.8867,13083.25,0.34,Europe,International,Y,7
+R100,MUC,Germany,48.3538,11.7861,CPH,Denmark,55.6181,12.6506,12886.65,0.94,Europe,International,N,10
+R101,CPT,South Africa,-33.9696,18.6017,PMI,Spain,39.5517,2.7388,2210.95,0.73,Africa,International,N,5
+R102,RUH,Saudi Arabia,24.9576,46.6988,MEX,Mexico,19.4363,-99.0721,11844.91,0.78,Middle East,International,N,6
+R103,PVG,China,31.1443,121.8083,HEL,Finland,60.3172,24.9633,3413.83,0.55,East Asia,International,N,6
+R104,CGK,Indonesia,-6.1256,106.6559,BNE,Australia,-27.3942,153.1218,8669.41,0.77,Southeast Asia,International,N,7
+R105,SGN,Vietnam,10.8187,106.652,ABV,Nigeria,9.0068,7.2638,11900.89,0.74,Southeast Asia,International,N,4
+R106,YYZ,Canada,43.6777,-79.6248,NBO,Kenya,-1.3192,36.9278,2804.76,0.74,North America,International,N,1
+R107,PHX,USA,33.4373,-112.0078,ACC,Ghana,5.6052,-0.1665,8439.9,0.89,North America,International,Y,4
+R108,MRS,France,43.4393,5.2214,PHL,USA,39.8744,-75.2424,6897.09,0.65,Europe,International,N,1
+R109,MEX,Mexico,19.4363,-99.0721,OSL,Norway,60.1939,11.1004,2545.32,0.94,North America,International,Y,7
+R110,GIG,Brazil,-22.8099,-43.2505,SEA,USA,47.4502,-122.3088,2972.82,0.86,South America,International,N,1
+R111,SEA,USA,47.4502,-122.3088,DPS,Indonesia,-8.7482,115.167,8915.81,0.89,North America,International,N,8
+R112,TUN,Tunisia,36.851,10.2272,AMS,Netherlands,52.3105,4.7683,4596.87,0.75,Africa,International,Y,5
+R113,DRW,Australia,-12.4086,130.877,TLV,Israel,32.0114,34.8867,11501.56,0.75,Oceania,International,Y,5
+R114,CAI,Egypt,30.1219,31.4056,NAP,Italy,40.886,14.2906,6638.18,0.59,Africa,International,N,3
+R115,JNB,South Africa,-26.1392,28.246,EZE,Argentina,-34.8222,-58.5358,12031.35,0.54,Africa,International,N,10
+R116,CAN,China,23.3924,113.2988,CTU,China,30.5781,103.947,10235.12,0.32,East Asia,Domestic,Y,10
+R117,PVG,China,31.1443,121.8083,ADL,Australia,-34.9471,138.5307,639.77,0.81,East Asia,International,N,1
+R118,PER,Australia,-31.9403,115.9669,VIE,Austria,48.1103,16.5697,5852.22,0.32,Oceania,International,N,6
+R119,AEP,Argentina,-34.5592,-58.4156,JED,Saudi Arabia,21.6796,39.1564,13113.04,0.75,South America,International,N,3
+R120,AMS,Netherlands,52.3105,4.7683,SVO,Russia,55.9726,37.4146,12386,0.65,Europe,International,Y,10
+R121,KWI,Kuwait,29.2267,47.9689,YEG,Canada,53.3097,-113.58,13297.96,0.36,Middle East,International,N,2
+R122,NBO,Kenya,-1.3192,36.9278,VIE,Austria,48.1103,16.5697,7024.03,0.79,Africa,International,N,6
+R123,MAD,Spain,40.4983,-3.5676,PEK,China,40.0799,116.6031,11264.45,0.77,Europe,International,Y,0
+R124,ARN,Sweden,59.6519,17.9186,HEL,Finland,60.3172,24.9633,11287.33,0.56,Europe,International,Y,9
+R125,BCN,Spain,41.2974,2.0833,NCE,France,43.6584,7.2159,6629.39,0.68,Europe,International,Y,4
+R126,FRA,Germany,50.0379,8.5622,PMI,Spain,39.5517,2.7388,9752.89,0.65,Europe,International,N,0
+R127,LYS,France,45.7256,5.0814,NRT,Japan,35.7647,140.3864,403.92,0.81,Europe,International,N,1
+R128,KUL,Malaysia,2.7456,101.7072,SVO,Russia,55.9726,37.4146,12753.63,0.61,Southeast Asia,International,N,0
+R129,DAC,Bangladesh,23.8431,90.3979,EDI,UK,55.95,-3.3725,13278.59,0.91,South Asia,International,Y,4
+R130,CAN,China,23.3924,113.2988,LOS,Nigeria,6.5774,3.3212,8828.16,0.3,East Asia,International,Y,9
+R131,BOM,India,19.0896,72.8656,MRS,France,43.4393,5.2214,7499.94,0.32,South Asia,International,Y,5
+R132,FRA,Germany,50.0379,8.5622,YUL,Canada,45.4657,-73.7449,2871,0.94,Europe,International,Y,1
+R133,PHL,USA,39.8744,-75.2424,DUR,South Africa,-29.6144,31.1197,7962.16,0.67,North America,International,Y,1
+R134,YEG,Canada,53.3097,-113.58,MEX,Mexico,19.4363,-99.0721,8711.01,1,North America,International,N,4
+R135,PUS,South Korea,35.1795,128.9382,LHR,UK,51.47,-0.4543,2657.87,0.63,East Asia,International,N,10
+R136,HEL,Finland,60.3172,24.9633,LED,Russia,59.8003,30.2625,5191.31,0.48,Europe,International,Y,10
+R137,AGP,Spain,36.6749,-4.4991,SFO,USA,37.6213,-122.379,11700.56,0.34,Europe,International,N,7
+R138,DMK,Thailand,13.9129,100.6069,SVO,Russia,55.9726,37.4146,11395.75,0.98,Southeast Asia,International,N,10
+R139,HKG,Hong Kong,22.308,113.9185,KIX,Japan,34.4347,135.2442,7812.19,0.46,East Asia,International,Y,7
+R140,GMP,South Korea,37.5583,126.7906,LAS,USA,36.084,-115.1537,13792.51,0.4,East Asia,International,N,0
+R141,SEA,USA,47.4502,-122.3088,CAN,China,23.3924,113.2988,501.55,0.74,North America,International,N,1
+R142,ABV,Nigeria,9.0068,7.2638,SGN,Vietnam,10.8187,106.652,8757.52,0.38,Africa,International,N,9
+R143,DTW,USA,42.2162,-83.3554,LGW,UK,51.1481,-0.1903,12705.06,0.44,North America,International,N,6
+R144,TLV,Israel,32.0114,34.8867,CAI,Egypt,30.1219,31.4056,5725.23,0.63,Middle East,International,N,8
+R145,ORY,France,48.7233,2.3794,VCE,Italy,45.5053,12.3519,5061.25,0.39,Europe,International,N,6
+R146,KUL,Malaysia,2.7456,101.7072,PHL,USA,39.8744,-75.2424,12438.22,0.92,Southeast Asia,International,Y,4
+R147,PUS,South Korea,35.1795,128.9382,NCE,France,43.6584,7.2159,2150.17,0.67,East Asia,International,Y,9
+R148,AKL,New Zealand,-37.0082,174.785,SEA,USA,47.4502,-122.3088,8963.5,0.45,Oceania,International,Y,9
+R149,CAN,China,23.3924,113.2988,WAW,Poland,52.1657,20.9671,6868.78,0.44,East Asia,International,N,5
+R150,SIN,Singapore,1.3644,103.9915,AGP,Spain,36.6749,-4.4991,2121.37,0.95,Southeast Asia,International,Y,7
+R151,DEN,USA,39.8617,-104.6737,ICN,South Korea,37.4602,126.4407,14969.86,0.64,North America,International,N,0
+R152,ACC,Ghana,5.6052,-0.1665,WLG,New Zealand,-41.3276,174.805,10384.92,0.9,Africa,International,N,2
+R153,BCN,Spain,41.2974,2.0833,BOM,India,19.0896,72.8656,2971.42,0.31,Europe,International,Y,1
+R154,SVO,Russia,55.9726,37.4146,VIE,Austria,48.1103,16.5697,4911.08,0.51,Europe,International,N,0
+R155,ICN,South Korea,37.4602,126.4407,CEB,Philippines,10.3077,123.9792,13311.15,0.43,East Asia,International,N,2
+R156,PUS,South Korea,35.1795,128.9382,LOS,Nigeria,6.5774,3.3212,5487.38,0.5,East Asia,International,Y,0
+R157,DFW,USA,32.8998,-97.0403,PUS,South Korea,35.1795,128.9382,13532.46,0.82,North America,International,Y,0
+R158,LED,Russia,59.8003,30.2625,YVR,Canada,49.1967,-123.1815,13113.16,0.73,Europe,International,N,7
+R159,RUH,Saudi Arabia,24.9576,46.6988,LYS,France,45.7256,5.0814,6638.06,0.59,Middle East,International,Y,5
+R160,FRA,Germany,50.0379,8.5622,DEN,USA,39.8617,-104.6737,12209.89,0.37,Europe,International,Y,10
+R161,YEG,Canada,53.3097,-113.58,FRA,Germany,50.0379,8.5622,775.28,0.81,North America,International,Y,4
+R162,BOM,India,19.0896,72.8656,CPT,South Africa,-33.9696,18.6017,1858.05,0.71,South Asia,International,Y,8
+R163,CCU,India,22.6546,88.4467,ALG,Algeria,36.691,3.2154,7375.21,0.71,South Asia,International,N,6
+R164,DMK,Thailand,13.9129,100.6069,MAA,India,12.9941,80.1709,2741.34,0.52,Southeast Asia,International,Y,0
+R165,DXB,UAE,25.2532,55.3657,EZE,Argentina,-34.8222,-58.5358,6497.58,0.55,Middle East,International,N,2
+R166,HND,Japan,35.5494,139.7798,DAC,Bangladesh,23.8431,90.3979,3466.68,0.82,East Asia,International,Y,8
+R167,CAI,Egypt,30.1219,31.4056,CTS,Japan,42.7747,141.692,12598.35,0.78,Africa,International,Y,7
+R168,CAN,China,23.3924,113.2988,MCO,USA,28.4312,-81.3081,6767.69,0.98,East Asia,International,Y,8
+R169,EDI,UK,55.95,-3.3725,PVG,China,31.1443,121.8083,10581.82,0.51,Europe,International,N,8
+R170,JFK,USA,40.6413,-73.7781,GVA,Switzerland,46.2381,6.1089,9965.62,0.64,North America,International,N,4
